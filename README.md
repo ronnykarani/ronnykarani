@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [karanironny.herokuapp.com/projects](karanironny.herokuapp.com/projects)
 
-- 📝 I regularly write articles on [karanironny.herokuapp.com/blog](dev.to/karani__ronny)
+- 📝 I regularly write articles on [dev.to/karani__ronny](dev.to/karani__ronny)
 
 - ⚡ Fun fact **You deserve more than the world is willing to give you!**
 
