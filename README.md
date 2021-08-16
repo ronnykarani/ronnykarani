@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ronny Karani</h1>
-<h3 align="center">A passionate fullstack developer from  Nairobi (Kenya🇰🇪)</h3>
+<h3 align="center">A passionate frontend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronnykarani&label=Profile%20views&color=0e75b6&style=flat" alt="ronnykarani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronnykarani" alt="ronnykarani" /></a> </p>
 
-- 👨‍💻 Checkout my website [karanironny.herokuapp.com](karanironny.herokuapp.com)
-
-- 👨‍💻 All of my projects are available at [karanironny.herokuapp.com/projects](karanironny.herokuapp.com/projects)
+- 👨‍💻 All of my projects are available at [ronnykarani.herokuapp.com/portfolio](ronnykarani.herokuapp.com/portfolio)
 
 - 📝 I regularly write articles on [dev.to/karani__ronny](dev.to/karani__ronny)
 
@@ -15,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/dev.to/karani__ronny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to/karani__ronny" height="30" width="40" /></a>
 <a href="https://twitter.com/karani__ronny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karani__ronny" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ronny-karani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronny-karani" height="30" width="40" /></a>
 <a href="https://fb.com/ronny.karani.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ronny.karani.37" height="30" width="40" /></a>
@@ -28,5 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronnykarani&show_icons=true&locale=en" alt="ronnykarani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronnykarani&" alt="ronnykarani" /></p>
-
 
