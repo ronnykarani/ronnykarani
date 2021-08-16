@@ -7,6 +7,8 @@
 
 - 👨‍💻 Vist my Website [ronnykarani.herokuapp.com](ronnykarani.herokuapp.com)
 
+- 👨‍💻 Email me [karanironny25@gmail.com](karanironny25@gmail.com)
+
 - 👨‍💻 All of my projects are available at [ronnykarani.herokuapp.com/portfolio](ronnykarani.herokuapp.com/portfolio)
 
 - ⚡ Fun fact **You deserve more than the world is willing to give you!**
