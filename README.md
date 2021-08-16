@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ronny Karani</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate frontend developer from Nairobi (Kenya 🇰🇪)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronnykarani&label=Profile%20views&color=0e75b6&style=flat" alt="ronnykarani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronnykarani" alt="ronnykarani" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [ronnykarani.herokuapp.com/portfolio](ronnykarani.herokuapp.com/portfolio)
-
-- 📝 I regularly write articles on [dev.to/karani__ronny](dev.to/karani__ronny)
 
 - ⚡ Fun fact **You deserve more than the world is willing to give you!**
 
