@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronnykarani" alt="ronnykarani" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [ronnykarani.herokuapp.com](ronnykarani.herokuapp.com)
+- 👨‍💻 All of my projects are available at ronnykarani.herokuapp.com
 
 - ⚡ Fun fact **You deserve more than the world is willing to give you!**
 
