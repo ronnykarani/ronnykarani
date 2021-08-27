@@ -7,15 +7,6 @@
 
 - ⚡ Fun fact **You deserve more than the world is willing to give you!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.ronnykarani.herokuapp.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to/karani__ronny" height="30" width="40" /></a>
-</p>
-
-
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnykarani&show_icons=true&locale=en&layout=compact" alt="ronnykarani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronnykarani&show_icons=true&locale=en" alt="ronnykarani" /></p>
